@@ -19,3 +19,14 @@
 
 
 **Link to work:** [Palidate.js initial commit](https://github.com/ashkanahrabi/palidate.js/commit/8c4a7560b6536b1482b93999ea4043c435e04586)
+
+----------------------------
+
+### Day 3: December 13, 2021
+
+**Today's Progress**: I've added a new util function (for converting English nums to Persian nums) to my package, `Palidate.js`.
+
+**Thoughts:** Feeling a bit strange with TS 😅 But it's really helpful and as I develop more on my package, I learn more and that sounds great.
+
+
+**Link to work:** [Palidate.js v0.0.2](https://github.com/ashkanahrabi/palidate.js/commit/25211530a88daf5254c8699c20b8a000373db2eb)
