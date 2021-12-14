@@ -30,3 +30,14 @@
 
 
 **Link to work:** [Palidate.js v0.0.2](https://github.com/ashkanahrabi/palidate.js/commit/25211530a88daf5254c8699c20b8a000373db2eb)
+
+----------------------------
+
+### Day 4: December 14, 2021
+
+**Today's Progress**: Another util function (for formatting currency) for my package, `Palidate.js`. Although it is buggy and needs some improvements.
+
+**Thoughts:** In many cases (specially when typing Persian inside an input) you can not use `toLocaleString()` function. And this util function is very helpful there. I decided to develop things that are useful for other developers. Finally, TS is pleasing for me 😌.
+
+
+**Link to work:** [Palidate.js WIP](https://github.com/ashkanahrabi/palidate.js/commit/a5bb22d089bedfe27247e993c2b583de8f20d89f)
