@@ -41,3 +41,25 @@
 
 
 **Link to work:** [Palidate.js WIP](https://github.com/ashkanahrabi/palidate.js/commit/a5bb22d089bedfe27247e993c2b583de8f20d89f)
+
+----------------------------
+
+### Day 5: December 15, 2021
+
+**Today's Progress**: Today as I was too busy, I decided to do one of `Codewars` challenges.
+
+**Thoughts:** These challenges are really amazing for me and I like to improve my data structure and algorithm knowledge.
+
+
+**Link to work:** [My Codewars Profile](https://www.codewars.com/users/ashkanahrabi)
+
+----------------------------
+
+### Day 6: December 16, 2021
+
+**Today's Progress**: Back to my package `Palidate.js` 🙃. I've added my first validation function (isNationalCode) to it.
+
+**Thoughts:** My fears of developing in TypeScript is gone and I'm really getting used to it. My package is also getting more completed.
+
+
+**Link to work:** [Palidate.js](https://github.com/ashkanahrabi/palidate.js/commit/96675516006062f31c66b2fc84d565dc5b48cc90)
