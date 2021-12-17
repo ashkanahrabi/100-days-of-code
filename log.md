@@ -63,3 +63,14 @@
 
 
 **Link to work:** [Palidate.js](https://github.com/ashkanahrabi/palidate.js/commit/96675516006062f31c66b2fc84d565dc5b48cc90)
+
+----------------------------
+
+### Day 7: December 17, 2021
+
+**Today's Progress**: Well, every package needs tests and I'm writing tests for it using jest and `ts-jest`. 
+
+**Thoughts:** Writing tests feels like being in a safe place to take off your pants 🤣. I was familiar with jest from past but now I'm trying to master it.
+
+
+**Link to work:** [Palidate.js](https://github.com/ashkanahrabi/palidate.js/commit/8911850ece8f1ef8ff437e0835bf65cbefe108d6)
