@@ -74,3 +74,14 @@
 
 
 **Link to work:** [Palidate.js](https://github.com/ashkanahrabi/palidate.js/commit/8911850ece8f1ef8ff437e0835bf65cbefe108d6)
+
+----------------------------
+
+### Day 8: December 18, 2021
+
+**Today's Progress**: Nothing special, just working on unit tests as yesterday 
+
+**Thoughts:** Hmmm, I need to investigate on more test cases.
+
+
+**Link to work:** [Palidate.js](https://github.com/ashkanahrabi/palidate.js/commit/dd2f5f55c8bb43a68836e9750fa4067aed519df7)
