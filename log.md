@@ -85,3 +85,14 @@
 
 
 **Link to work:** [Palidate.js](https://github.com/ashkanahrabi/palidate.js/commit/dd2f5f55c8bb43a68836e9750fa4067aed519df7)
+
+----------------------------
+
+### Day 9: December 19, 2021
+
+**Today's Progress**: New validation function added. It's for validating Iranian mobile numbers.
+
+**Thoughts:** Everything's ok unless I need to learn more on TypeScript.
+
+
+**Link to work:** [Palidate.js v0.0.3](https://github.com/ashkanahrabi/palidate.js/commit/ed1bea4ffceae3f212a11c14df16169497b09688)
