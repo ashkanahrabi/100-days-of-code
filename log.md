@@ -96,3 +96,27 @@
 
 
 **Link to work:** [Palidate.js v0.0.3](https://github.com/ashkanahrabi/palidate.js/commit/ed1bea4ffceae3f212a11c14df16169497b09688)
+
+
+----------------------------
+
+### Day 10-15: December 20-25, 2021
+
+**Progress**: `Codewars` challenges.
+
+**Thoughts:** I was getting used to do a coding challenge every night :D It was great.
+
+
+**Link to work:** [My Codewars Profile](https://www.codewars.com/users/ashkanahrabi)
+
+----------------------------
+
+### Day 16: December 26, 2021
+
+**Today's Progress**: Finally, today I have published my package with lots of new changes. I added prettier, tslint, and different publishing scripts. I learnt that every public package needs to follow these rules in order to make contributions easier. I also learnt on how to add dynamic sheilds to README files 😁
+I also had to rename my package to `Palidation.js`.
+
+**Thoughts:** I think I'm getting deeper on how to really publish a public package.
+
+
+**Link to work:** [Palidation.js v0.0.8](https://github.com/ashkanahrabi/palidation.js/commits/master)
